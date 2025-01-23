@@ -12,7 +12,7 @@ We're focused on building creative things and tech products through a diverse ra
 - ...... and more!!!!
 
 
-We have over 130,000 subscribers on wechat which is the biggest social media platform in China and we have accumulated about 800 participants in total in our co-learning activities.
+We have over 130,000 subscribers on wechat which is the biggest social media platform in China and we have accumulated about 1000 participants in total in our co-learning activities.
 
 
 ## Co-learning Repos
